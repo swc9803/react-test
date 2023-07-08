@@ -15,6 +15,10 @@
     {
       "day": 4,
       "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
     }
   ],
   "words": [
@@ -59,6 +63,20 @@
       "kor": "f",
       "isDone": false,
       "id": 8
+    },
+    {
+      "day": "1",
+      "eng": "dsa",
+      "kor": "gfd",
+      "isDone": false,
+      "id": 9
+    },
+    {
+      "day": "1",
+      "eng": "2",
+      "kor": "54",
+      "isDone": false,
+      "id": 10
     }
   ]
 }
